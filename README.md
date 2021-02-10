@@ -28,3 +28,7 @@ Hi I'm Chris. A software engineer from Baltimore, Maryland.
 </p>
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-sul&count_private=true&show_icons=true&theme=prussian)](https://github.com/chris-sul)
+
+---
+Built With:
+[Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
