@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm Chris. A software engineer from Baltimore, Maryland.
+Hi I'm Chris. A software engineer based in San Francisco, CA.
 
 <p>
     <a href="https://chrissul.com" target="_blank">
